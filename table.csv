@@ -1,7 +1,0 @@
-Tool Name,Purpose,Type,Example Output
-Nmap,Port scanning & service detection,Active,"Open ports (e.g. 80/tcp open http), OS detection, service versions (Apache 2.4.41), scripts results"
-Whois,Domain registration lookup,Passive,"Registrant name/org, contact email, registrar, creation/expiration dates, name servers"
-NSLookup,DNS query & record resolution,Passive,"IP address(es) for domain, authoritative name server, MX/CNAME/TXT records, etc."
-Shodan,Search for internet-connected devices & services,Passive,"Exposed devices (e.g. IP, port 80 open, ""Server: Apache"", location, org, vulnerabilities, banners)"
-Nessus,Vulnerability scanning,Active,"List of detected CVEs, severity ratings (Critical/High), affected hosts, remediation suggestions"
-Nikto,Web server vulnerability scan,Active,"Outdated software, misconfigurations, dangerous files (/phpmyadmin/), server headers issues, potential exploits"
